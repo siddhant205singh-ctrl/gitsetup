@@ -1,4 +1,4 @@
 # gitsetup
 My name is Siddhantt Singh
 <br>
-My branch is CSIT 
+My branch is CSIT (B.TECH)
